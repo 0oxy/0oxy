@@ -12,17 +12,17 @@
 
 
 ```python
-┌──(0oxy@root)-[`?`]
-└─~ open 0oxy.py
+┌──(larp@root)-[`?`]
+└─~ open larp.py
 
-class oxy:
+class larpist:
 
 def  __social__(self):
- self.gtb = "https://github.com/0oxy"
+ self.gtb = "https://github.com/depicting"
  self.dsc = "@00xr" 
  self.tlg = "????"
   
- ┌──(0oxy@root)-[`?`]
+ ┌──(larp@root)-[`?`]
  └─~
 ```
  
